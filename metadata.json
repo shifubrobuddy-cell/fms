@@ -1,0 +1,6 @@
+{
+  "name": "Faculty Management System (FMS)",
+  "description": "College faculty administration web app for managing faculty profiles, departments, subjects, timetables, attendance, and leave requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
